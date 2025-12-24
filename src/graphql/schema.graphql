@@ -36,7 +36,6 @@ scalar Upload
 #import /shop/common/*.graphql
 #import /shop/cart/*.graphql
 #import /shop/checkout/*.graphql
-#import /shop/payment/*.graphql
 
 
 #import common.graphql
